@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "621710566726",
+    "project_id": "biogenius4-8b261",
+    "storage_bucket": "biogenius4-8b261.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:621710566726:android:05d2d2b385dabb8bf8b147",
+        "android_client_info": {
+          "package_name": "com.example.biogenius4"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyOKbmXbN3ZcAqxaHYaMVXs3Yvc-X0I00"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

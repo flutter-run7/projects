@@ -1,0 +1,12 @@
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/images/logo.jpg  # Caminho para a sua logo
+
+splashscreen_view:
+  image_path: assets/images/logo.jpg # Caminho para a sua logo
+  home: lib/main.dart  # Caminho para o seu arquivo main.dart
+  title: Nome do seu App# Nome do seu app
+  background_color: "#ffffff"  # Cor de fundo em hexadecimal
+  text_color: "#000000"  # Cor do texto em hexadecimal
